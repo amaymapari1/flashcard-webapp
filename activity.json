@@ -1,0 +1,152 @@
+{
+    "questionlist": [
+        {
+            "cardfront": "Engg Mechanics is divided into two parts",
+            "cardback": "1.Statics 2.Dynamic"
+        },
+        {
+            "cardfront": "Dynamics consists of two parts",
+            "cardback": "a.Kinematics b.Kinetics"
+        },
+        {
+            "cardfront": "a.Kinematics",
+            "cardback": "without any reference to the forces which are responsible for the motion.  "
+        },
+        {
+            "cardfront": "b.kinetics",
+            "cardback": "in motion due to the application of forces."
+        },
+        {
+            "cardfront": "Rigid body",
+            "cardback": "definite quantity of matter, the parts of which are fixed in position relative to each other."
+        },
+        {
+            "cardfront": "Deformable body",
+            "cardback": "changes shape on applying force."
+        },
+        {
+            "cardfront": "FORCE",
+            "cardback": "It is defined as an agent which produces or tends to produce, destroys or tends to destroy motion."
+        },
+        {
+            "cardfront": "Force Characteristics",
+            "cardback": "1.Magnitude of the force (i.e., 100 N, 50 N, 20 kN, 5 kN, etc.) 2.Direction 3.Point of application 4.Sense"
+        },
+        {
+            "cardfront": "SYSTEM OF FORCES",
+            "cardback": "two or more forces act on a body"
+        },
+        {
+            "cardfront": "Types of systems of forces ",
+            "cardback": "There are 7 types of system of forces"
+        },
+        {
+            "cardfront": "1. Coplanar forces",
+            "cardback": "The forces, whose lines of action lie on the same plane, are known as coplanar forces."
+        },
+        {
+            "cardfront": "2. Collinear forces",
+            "cardback": "The forces, whose lines of action lie on the same line, are known as collinear forces."
+        },
+        {
+            "cardfront": "3. Concurrent forces",
+            "cardback": "The forces, which meet at one point, are known as concurrent forces. The concurrent forces may or may not be collinear."
+        },
+        {
+            "cardfront": " 4. Coplanar concurrent forces",
+            "cardback": "The forces, which meet at one point and their lines of action also lie on the same plane, are known as coplanar concurrent forces."
+        },
+        {
+            "cardfront": " 5. Coplanar non-concurrent forces",
+            "cardback": "The forces, which do not meet at one point, but their lines of action lie on the same plane, are known as coplanar non-concurrent forces."
+        },
+        {
+            "cardfront": " 6. Non-coplanar concurrent forces",
+            "cardback": "The forces, which meet at one point, but their lines of2 action do not lie on the same plane, are known as non-coplanar concurrent forces."
+        },
+        {
+        "cardfront": "7. Non-coplanar non-concurrent forces",
+         "cardback": "The forces, which do not meet at one point and their lines of action do not lie on the same plane, are called non-coplanar non-concurrent forces.             "
+        },
+        {
+            "cardfront": "MOMENT OF A FORCE",
+            "cardback": " It is the turning effect produced by a force, on the body, on which it acts."
+        },
+        {
+            "cardfront": "Formula of Moment",
+            "cardback": " M = F × d <br>where F=Force and d= Perpendicular distance"
+        },
+        {
+            "cardfront": "TYPES OF MOMENTS: ",
+            "cardback": "1.CLOCKWISE MOMENT 2.ANTICLOCKWISE MOMENT"
+        },
+        {
+            "cardfront": "PRINCIPLE OF TRANSMISSIBILITY: ",
+            "cardback": "It states, “If a force acts at any point on a rigid body, it may also be considered to act at any other point on its line of action, provided this point is rigidly connected with the body.”             "
+        },
+        {
+            "cardfront": "PRINCIPLE OF SUPERPOSITION: ",
+            "cardback": "This principle states that the combined effect of force system acting on a particle or a rigid body is the sum of effects of individual forces. "
+        },
+        {
+            "cardfront": "RESOLUTION OF A FORCE: ",
+            "cardback": "The process of splitting up the given force into a number of components, without changing its effect on the body "
+        },
+        {
+            "cardfront": "Varignon’s Theorem of Moments:",
+            "cardback": "The algebraic sum of the moments of all the forces about a particular point is equal to the moment of their resultant about the same point."
+        },
+        {
+            "cardfront": "Distance of P1,P2,P3,R from O are d1,d2,d3,d respectively.Let 'R' be the resultant of three forces.According to Varignon’s Theorem,Moment about point ‘O’ is:<br> -(R x d) = -(P1 x d1)-(P2 x d2) + (P3 x d3)",
+            "cardback":"<img src=\"img/u1img1.png\" class=\"img\"> </img>"
+        },
+        {
+            "cardfront": "Couple:",
+            "cardback": "Two parallel forces which are equal in magnitude and opposite in direction and separated by a finite distance is said to be a couple."
+        },
+        {
+            "cardfront": "Real life examples",
+            "cardback": "<img src=\"img/u1img2.jpg\" class=\"img\"> </img>"
+        },
+        {
+            "cardfront": "Moment of couple ",
+            "cardback": "F x d <br>(d is the distance between two forces)"
+        },
+        {
+            "cardfront": "Characteristics of a Couple:",
+            "cardback": "1.The sum of two forces along any direction is always zero 2.The sum of moments of two forces about a given point is not zero "
+        },
+        {
+            "cardfront": "Steps to solve problem on varignon’s theorem:",
+            "cardback": "1.Resolve all the forces horizontally and find the algebraic sum of all the horizontal components i.e. ΣFx. 2.Resolve all the forces vertically and find the algebraic sum of all the vertical components i.e. ΣFy  "
+        },
+        {
+            "cardfront": "Steps to solve problem on varignon’s theorem:",
+            "cardback": "3.Resultant = √ (ΣFx)² + (ΣFy)²     4.α=tan⁻¹(ΣFy/ΣFx),α is the angle made by ‘R’ with the horizontal.         "
+        },
+        {
+            "cardfront": "Steps to solve problem on varignon’s theorem:",
+            "cardback": "5.Apply Varignon’s theorem of moments.<br>6.Moment of all the forces = Moment of the resultant"
+        },
+        {
+            "cardfront": "Equivalent Force Couple System:",
+            "cardback": "Two force systems are equivalent if they result in the same resultant force and the same resultant moment."
+        },
+        {
+            "cardfront": "These three cases represent equivalent force system.",
+            "cardback": "<img src=\"img/u1img3.jpg\" class=\"img\"> </img>"
+        },
+        {
+            "cardfront": "Any set of forces on a body can be replaced by a single force and a single couple acting that is statically equivalent to the original set of forces and moments. ",
+            "cardback": "<img src=\"img/u1img4.jpg\" class=\"img\"> </img>"
+        },
+        {
+            "cardfront": "Resultant of force system:<br> 1) In 2D",
+            "cardback": "<img src=\"img/u1img5.jpg\" class=\"img\"> </img>"
+        },
+        {
+            "cardfront": "Resultant of force system:<br> 2) In 3D:",
+            "cardback":"<img src=\"img/u1img6.jpg\" class=\"img\"> </img>"
+        }
+    ]
+}

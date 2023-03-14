@@ -1,0 +1,152 @@
+{
+    "questionlist": [
+        {
+            "cardfront":"Centroid and Center of Gravity:",
+"cardback": "<img src=\"img/u2img1.jpg\" class=\"img\"> </img>"
+        },
+        {
+            "cardfront": "Centroid",
+            "cardback": "<img src=\"img/u2img2.jpg\" class=\"img\"> </img>"
+        },
+        {
+            "cardfront": "Common point to be remember:",
+            "cardback": "<img src=\"img/u2img3.jpg\" class=\"img\"> </img>"
+        },
+        {
+            "cardfront": "Centroids of some common areas:",
+            "cardback":"<img src=\"img/u2img4.jpg\" class=\"img\"> </img>"
+        },
+        {
+            "cardfront": "Centroid of some lines areas:",
+            "cardback":"<img src=\"img/u2img5.jpg\" class=\"img\"> </img>"
+        },
+        {
+            "cardfront": "Concept of suspended bodies: The center of gravity of the suspended body will be located vertically below the point of suspension.",
+            "cardback": "<img src=\"img/u2img6.jpg\" class=\"img\"> </img>"
+        },
+        {
+            "cardfront": "Example:",
+            "cardback": "<img src=\"img/u2img7.jpg\" class=\"img\"> </img>"
+        },
+        {
+            "cardfront": "<img src=\"img/u2img8.jpg\" class=\"img\"> </img>",
+            "cardback": "<img src=\"img/u2img9.jpg\" class=\"img\"> </img>"
+        },
+        {
+            "cardfront": "Moment of Inertia:",
+            "cardback": "The moment of inertia of any plane about any axis is the second moment of area about that axis."
+        },
+        {
+            "cardfront": "Difference",
+            "cardback": " 1st moment of area=Area*Distance 2nd moment of area=Area*Distance²  "
+        },
+        {
+            "cardfront": "Formula",
+            "cardback": "I=A*d² ,where  A=Area & D=Centroidal distance from axis"
+        },
+        {
+            "cardfront": "Perpendicular axis theorem: Izz = Ixx+ Iyy           where Izz is polar moment of area.",
+            "cardback": "<img src=\"img/u2img10.jpg\" class=\"img\"> </img>"
+        },
+        {
+            "cardfront": "Parallel Axis Theorem:Ix=IG+Ad2 ",
+            "cardback": "<img src=\"img/u2img11.jpg\" class=\"img\"> </img>"
+        },
+        {
+            "cardfront": "Moments of inertia or Second moment of area of some common shapes:",
+            "cardback": "<img src=\"img/u2img12.jpg\" class=\"img\"> </img>"
+        },
+        {
+            "cardfront": "Moments of inertia or Second moment of area of some common shapes:",
+            "cardback": "<img src=\"img/u2img13.jpg\" class=\"img\"> </img>"
+        },
+        {
+            "cardfront": "Moments of inertia or Second moment of area of some common shapes:",
+            "cardback": "<img src=\"img/u2img14.jpg\" class=\"img\"> </img>"
+        },
+        {
+            "cardfront": "Moments of inertia or Second moment of area of some common shapes:",
+            "cardback": "<img src=\"img/u2img15.jpg\" class=\"img\"> </img>"
+        },
+        {
+            "cardfront": "Part 2            Friction",
+            "cardback": "Opposing force, which acts in the opposite direction of the movement of the block, is called force of friction or simply friction."
+        },
+        {
+            "cardfront": "It is of the following two types:",
+            "cardback": "1.Static Friction       2.Dynamic Friction"
+        },
+        {
+            "cardfront": "1.Static Friction",
+            "cardback": "friction when the body tends to move"
+        },
+        {
+            "cardfront": "2.Dynamic Friction",
+            "cardback": "friction experienced by a body when it is in motion"
+        },
+        {
+            "cardfront": "Dynamic Friction has following two types",
+            "cardback": "a. Sliding friction: b.Rolling friction: "
+        },
+        {
+            "cardfront": "         a. Sliding friction: ",
+            "cardback": "It is the friction experienced by a body when it slides over another body.                "
+        },
+        {
+            "cardfront": "         b.Rolling friction: ",
+            "cardback": "It is the friction experienced by a body when it rolls over another body."
+        },
+        {
+            "cardfront": "LIMITING FRICTION:",
+            "cardback": "The maximum value of frictional force, which comes into play, when a body just begins to slide over the surface of the other body, is known as limiting friction."
+        },
+        {
+            "cardfront": "COEFFICIENT OF FRICTION:",
+            "cardback": "It is the ratio of limiting friction to the normal reaction, between the two bodies, and is generally denoted by μ."
+        },
+        {
+            "cardfront": "Mathematically, coefficient of friction,",
+            "cardback": "<img src=\"img/u2img23.jpg\" class=\"img\"> </img>"
+        },
+        {
+            "cardfront": "ANGLE OF FRICTION:",
+            "cardback": "This angle of inclined plane, at which a body just begins to slide down the plane, is called the angle of friction. This is also equal to the angle, which the normal reaction makes with the vertical. "
+        },
+        {
+            "cardfront": "ANGLE OF REPOSE: Angle of repose is defined as the angle of the inclined plane with horizontal such that a body placed on it just begins to slide.",
+            "cardback": "<img src=\"img/u2img16.jpg\" class=\"img\"> </img>"
+        },
+        {
+            "cardfront": "EQUILIBRIUM OF A BODY ON A ROUGH INCLINED PLANE SUBJECTED TO A FORCE ACTING ALONG THE INCLINED PLANE: ",
+            "cardback": "<img src=\"img/u2img17.jpg\" class=\"img\"> </img>"
+        },
+        {
+            "cardfront": "EQUILIBRIUM OF A BODY ON A ROUGH INCLINED PLANE SUBJECTED TO A FORCE ACTING HORIZONTALLY",
+            "cardback": "<img src=\"img/u2img18.jpg\" class=\"img\"> </img>"
+        },
+        {
+            "cardfront": "EQUILIBRIUM OF A BODY ON A ROUGH INCLINED PLANE SUBJECTED TO A FORCE ACTING AT SOME ANGLE WITH THE INCLINED PLANE",
+            "cardback": "<img src=\"img/u2img19.jpg\" class=\"img\"> </img>"
+        },
+        {
+            "cardfront": "APPLICATIONS OF FRICTION",
+            "cardback": "1.LADDER FRICTION  2.WEDGE FRICTION"
+        },
+        {
+            "cardfront": "1.LADDER FRICTION",
+            "cardback": "<img src=\"img/u2img20.jpg\" class=\"img\"> </img>"
+        },
+        {
+            "cardfront": "2.WEDGE FRICTION:  A wedge is, usually, of a triangular or trapezoidal cross-section used for lifting heavy objects and adjusting the position of the body.",
+            "cardback": "<img src=\"img/u2img21.jpg\" class=\"img\"> </img>"
+        },
+        {
+            "cardfront": "Belt Friction",
+            "cardback": "<img src=\"img/u2img22.jpg\" class=\"img\"> </img>"
+        },
+        {
+            "cardfront": "KANGAROO",
+            "cardback": "CANGURO"
+        }
+    ]
+}
